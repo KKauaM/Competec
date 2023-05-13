@@ -1,4 +1,4 @@
-package Aula01;
+package aula0;
 import java.util.Scanner;
 
 public class aula02_Laraja {

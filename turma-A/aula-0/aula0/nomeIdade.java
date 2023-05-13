@@ -1,4 +1,4 @@
-package Aula01;
+package aula0;
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ public class nomeIdade {
         System.out.println("Digite seu sobrenome: ");
         sobrenome = ler.nextLine();
         System.out.println("Digite sua idade: ");
-        sobrenome = ler.nextInt();
+        idade = ler.nextInt();
         System.out.println("--------------------");
 
         // tomar cafá pae
