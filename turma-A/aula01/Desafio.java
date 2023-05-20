@@ -79,5 +79,7 @@ public class Desafio{
         } else if(ddd>46 && ddd<50){
             System.out.println("Santa Catarina");
         }
+
+        ler.close();
     }
 }

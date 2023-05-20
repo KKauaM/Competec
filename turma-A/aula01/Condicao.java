@@ -19,7 +19,7 @@ public class Condicao{
             System.out.println(x==y? "Valores são iguais" : "Valores NÃO são iguais");
         */
 
-        /*  nublado?
+        /* nublado?
             String clima;
 
             System.out.println("Como está o clima: ");
@@ -69,6 +69,6 @@ public class Condicao{
         System.out.println();
         */
 
-        // ler.close();
+        ler.close();
     }
 }
