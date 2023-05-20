@@ -39,14 +39,18 @@ public class While {
             }
         */
 
-        // Somente num ímpares
+        /* Somente num ímpares
             System.out.println("Digite um valor: ");
-            int num = ler.nextInt();
+            int num = ler.nextInt();//10
 
             for(int a=num; a>0; a--){ 
                 System.out.print(a%2==0? "" : a +", ");
             }
-        //
+
+            for(int a=1; a>num; a=a+2){ 
+                System.out.print(a +", ");
+            }
+        */
 
         ler.close();
     }
