@@ -30,5 +30,7 @@ public class nomeIdade {
         } else {
             System.out.println("O "+ nome +", de "+ idade +", NÃO tomou café da manhã");
         }
+
+        ler.close();
     }
 }
