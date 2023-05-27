@@ -51,6 +51,20 @@ public class While {
                 System.out.print(a +", ");
             }
         */
+        ''
+        /* primos?
+        int x = ler.nextInt();
+        int i=0;
+        
+        while(i<x){
+            int n = ler.nextInt();
+            
+            n = n==2 || n==3 || n==5? 7 :n;
+            
+            System.out.println(n%2==0 || n%3==0 || n%5==0 ? "Not Prime" :"Prime");
+            i++;
+        }
+        */
 
         ler.close();
     }
