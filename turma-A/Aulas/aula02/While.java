@@ -51,7 +51,6 @@ public class While {
                 System.out.print(a +", ");
             }
         */
-        ''
         /* primos?
         int x = ler.nextInt();
         int i=0;
